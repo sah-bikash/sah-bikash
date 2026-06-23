@@ -1,0 +1,10 @@
+export const NAV_ITEMS = [
+  { label: 'Home', href: '#home' },
+  { label: 'About', href: '#about' },
+  { label: 'Skills', href: '#skills' },
+  { label: 'Projects', href: '#projects' },
+  { label: 'Experience', href: '#experience' },
+  { label: 'Contact', href: '#contact' },
+];
+
+export const SECTION_IDS = ['home', 'about', 'skills', 'projects', 'experience', 'contact'];
